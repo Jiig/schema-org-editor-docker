@@ -6,7 +6,7 @@ Docker containter for https://github.com/jermnelson/schema-org-editor
 Usage
 -----
 
-Build using: `docker build -t lvandenbergh/schema-org-editor`
+Build using: `docker build -t lvandenbergh/schema-org-editor .`
 
 Running the container:
 `docker run -d lvandenbergh/schema-org-editor`
